@@ -20,7 +20,7 @@
     "@pinia/nuxt": "^0.3.1",
     "@vueuse/core": "^9.1.0",
     "contentful": "^9.1.33",
-    "daisyui": "^2.22.0",
+    "daisyui": "^2.52.0",
     "marked": "^4.0.18",
     "pinia": "^2.0.18",
     "stripe": "^10.3.0",
