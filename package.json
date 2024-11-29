@@ -17,7 +17,7 @@
     "@formkit/nuxt": "^1.0.0-beta.10",
     "@formkit/themes": "^1.0.0-beta.10",
     "@formkit/vue": "^1.0.0-beta.10",
-    "@pinia/nuxt": "^0.3.1",
+    "@pinia/nuxt": "^0.8.0",
     "@vueuse/core": "^9.1.0",
     "contentful": "^9.1.33",
     "daisyui": "^2.22.0",
